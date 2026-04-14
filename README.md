@@ -18,6 +18,12 @@ AutoYara 是一个面向 OpenHarmony 漏洞补丁验证场景的自动化系统�
 
 - [系统架构](D:/Project/AutoYara/docs/architecture.md)
 - [项目文件结构](D:/Project/AutoYara/docs/project-structure.md)
+- [编码约定](docs/coding-standards.md)
+- [项目文件结构](docs/project-structure.md)
+- 采集模块说明见 [src/autoyara/collectors/README.md](src/autoyara/collectors/README.md)
+- ida模块说明见 [src/autoyara/ida/README.md] (src/autoyara/ida/README.md)
+- 验证模块说明见 [src/autoyara/validator/README.md] (src/autoyara/validator/README.md)
+
 
 ## 核心流程
 
